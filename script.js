@@ -72,72 +72,72 @@ function canvas() {
 
   function files(index) {
     var data = `
-  ./img/frames00007.png
-  ./img/frames00010.png
-  ./img/frames00013.png
-  ./img/frames00016.png
-  ./img/frames00019.png
-  ./img/frames00022.png
-  ./img/frames00025.png
-  ./img/frames00028.png
-  ./img/frames00031.png
-  ./img/frames00034.png
-  ./img/frames00037.png
-  ./img/frames00040.png
-  ./img/frames00043.png
-  ./img/frames00046.png
-  ./img/frames00049.png
-  ./img/frames00052.png
-  ./img/frames00055.png
-  ./img/frames00058.png
-  ./img/frames00061.png
-  ./img/frames00064.png
-  ./img/frames00067.png
-  ./img/frames00070.png
-  ./img/frames00073.png
-  ./img/frames00076.png
-  ./img/frames00079.png
-  ./img/frames00082.png
-  ./img/frames00085.png
-  ./img/frames00088.png
-  ./img/frames00091.png
-  ./img/frames00094.png
-  ./img/frames00097.png
-  ./img/frames00100.png
-  ./img/frames00103.png
-  ./img/frames00106.png
-  ./img/frames00109.png
-  ./img/frames00112.png
-  ./img/frames00115.png
-  ./img/frames00118.png
-  ./img/frames00121.png
-  ./img/frames00124.png
-  ./img/frames00127.png
-  ./img/frames00130.png
-  ./img/frames00133.png
-  ./img/frames00136.png
-  ./img/frames00139.png
-  ./img/frames00142.png
-  ./img/frames00145.png
-  ./img/frames00148.png
-  ./img/frames00151.png
-  ./img/frames00154.png
-  ./img/frames00157.png
-  ./img/frames00160.png
-  ./img/frames00163.png
-  ./img/frames00166.png
-  ./img/frames00169.png
-  ./img/frames00172.png
-  ./img/frames00175.png
-  ./img/frames00178.png
-  ./img/frames00181.png
-  ./img/frames00184.png
-  ./img/frames00187.png
-  ./img/frames00190.png
-  ./img/frames00193.png
-  ./img/frames00196.png
-  ./img/frames00199.png
-  ./img/frames00202.png
+  ./IMG_P3/frames00007.png
+  ./IMG_P3/frames00010.png
+  ./IMG_P3/frames00013.png
+  ./IMG_P3/frames00016.png
+  ./IMG_P3/frames00019.png
+  ./IMG_P3/frames00022.png
+  ./IMG_P3/frames00025.png
+  ./IMG_P3/frames00028.png
+  ./IMG_P3/frames00031.png
+  ./IMG_P3/frames00034.png
+  ./IMG_P3/frames00037.png
+  ./IMG_P3/frames00040.png
+  ./IMG_P3/frames00043.png
+  ./IMG_P3/frames00046.png
+  ./IMG_P3/frames00049.png
+  ./IMG_P3/frames00052.png
+  ./IMG_P3/frames00055.png
+  ./IMG_P3/frames00058.png
+  ./IMG_P3/frames00061.png
+  ./IMG_P3/frames00064.png
+  ./IMG_P3/frames00067.png
+  ./IMG_P3/frames00070.png
+  ./IMG_P3/frames00073.png
+  ./IMG_P3/frames00076.png
+  ./IMG_P3/frames00079.png
+  ./IMG_P3/frames00082.png
+  ./IMG_P3/frames00085.png
+  ./IMG_P3/frames00088.png
+  ./IMG_P3/frames00091.png
+  ./IMG_P3/frames00094.png
+  ./IMG_P3/frames00097.png
+  ./IMG_P3/frames00100.png
+  ./IMG_P3/frames00103.png
+  ./IMG_P3/frames00106.png
+  ./IMG_P3/frames00109.png
+  ./IMG_P3/frames00112.png
+  ./IMG_P3/frames00115.png
+  ./IMG_P3/frames00118.png
+  ./IMG_P3/frames00121.png
+  ./IMG_P3/frames00124.png
+  ./IMG_P3/frames00127.png
+  ./IMG_P3/frames00130.png
+  ./IMG_P3/frames00133.png
+  ./IMG_P3/frames00136.png
+  ./IMG_P3/frames00139.png
+  ./IMG_P3/frames00142.png
+  ./IMG_P3/frames00145.png
+  ./IMG_P3/frames00148.png
+  ./IMG_P3/frames00151.png
+  ./IMG_P3/frames00154.png
+  ./IMG_P3/frames00157.png
+  ./IMG_P3/frames00160.png
+  ./IMG_P3/frames00163.png
+  ./IMG_P3/frames00166.png
+  ./IMG_P3/frames00169.png
+  ./IMG_P3/frames00172.png
+  ./IMG_P3/frames00175.png
+  ./IMG_P3/frames00178.png
+  ./IMG_P3/frames00181.png
+  ./IMG_P3/frames00184.png
+  ./IMG_P3/frames00187.png
+  ./IMG_P3/frames00190.png
+  ./IMG_P3/frames00193.png
+  ./IMG_P3/frames00196.png
+  ./IMG_P3/frames00199.png
+  ./IMG_P3/frames00202.png
  `;
     return data.split("\n")[index];
   }
@@ -266,60 +266,60 @@ function canvas5() {
 
   function files(index) {
     var data = `
-  ./img/bridges00004.png
-./img/bridges00007.png
-./img/bridges00010.png
-./img/bridges00013.png
-./img/bridges00016.png
-./img/bridges00019.png
-./img/bridges00022.png
-./img/bridges00025.png
-./img/bridges00028.png
-./img/bridges00031.png
-./img/bridges00034.png
-./img/bridges00037.png
-./img/bridges00040.png
-./img/bridges00043.png
-./img/bridges00046.png
-./img/bridges00049.png
-./img/bridges00052.png
-./img/bridges00055.png
-./img/bridges00058.png
-./img/bridges00061.png
-./img/bridges00064.png
-./img/bridges00067.png
-./img/bridges00070.png
-./img/bridges00073.png
-./img/bridges00076.png
-./img/bridges00079.png
-./img/bridges00082.png
-./img/bridges00085.png
-./img/bridges00088.png
-./img/bridges00091.png
-./img/bridges00094.png
-./img/bridges00097.png
-./img/bridges00100.png
-./img/bridges00103.png
-./img/bridges00106.png
-./img/bridges00109.png
-./img/bridges00112.png
-./img/bridges00115.png
-./img/bridges00118.png
-./img/bridges00121.png
-./img/bridges00124.png
-./img/bridges00127.png
-./img/bridges00130.png
-./img/bridges00133.png
-./img/bridges00136.png
-./img/bridges00139.png
-./img/bridges00142.png
-./img/bridges00145.png
-./img/bridges00148.png
-./img/bridges00151.png
-./img/bridges00154.png
-./img/bridges00157.png
-./img/bridges00160.png
-./img/bridges00163.png
+./IMG_P5/bridges00004.png
+./IMG_P5/bridges00007.png
+./IMG_P5/bridges00010.png
+./IMG_P5/bridges00013.png
+./IMG_P5/bridges00016.png
+./IMG_P5/bridges00019.png
+./IMG_P5/bridges00022.png
+./IMG_P5/bridges00025.png
+./IMG_P5/bridges00028.png
+./IMG_P5/bridges00031.png
+./IMG_P5/bridges00034.png
+./IMG_P5/bridges00037.png
+./IMG_P5/bridges00040.png
+./IMG_P5/bridges00043.png
+./IMG_P5/bridges00046.png
+./IMG_P5/bridges00049.png
+./IMG_P5/bridges00052.png
+./IMG_P5/bridges00055.png
+./IMG_P5/bridges00058.png
+./IMG_P5/bridges00061.png
+./IMG_P5/bridges00064.png
+./IMG_P5/bridges00067.png
+./IMG_P5/bridges00070.png
+./IMG_P5/bridges00073.png
+./IMG_P5/bridges00076.png
+./IMG_P5/bridges00079.png
+./IMG_P5/bridges00082.png
+./IMG_P5/bridges00085.png
+./IMG_P5/bridges00088.png
+./IMG_P5/bridges00091.png
+./IMG_P5/bridges00094.png
+./IMG_P5/bridges00097.png
+./IMG_P5/bridges00100.png
+./IMG_P5/bridges00103.png
+./IMG_P5/bridges00106.png
+./IMG_P5/bridges00109.png
+./IMG_P5/bridges00112.png
+./IMG_P5/bridges00115.png
+./IMG_P5/bridges00118.png
+./IMG_P5/bridges00121.png
+./IMG_P5/bridges00124.png
+./IMG_P5/bridges00127.png
+./IMG_P5/bridges00130.png
+./IMG_P5/bridges00133.png
+./IMG_P5/bridges00136.png
+./IMG_P5/bridges00139.png
+./IMG_P5/bridges00142.png
+./IMG_P5/bridges00145.png
+./IMG_P5/bridges00148.png
+./IMG_P5/bridges00151.png
+./IMG_P5/bridges00154.png
+./IMG_P5/bridges00157.png
+./IMG_P5/bridges00160.png
+./IMG_P5/bridges00163.png
 `;
     return data.split("\n")[index];
   }
@@ -403,140 +403,140 @@ function canvas7() {
 
   function files(index) {
     var data = `
-    ./img/1.webp
-    ./img/2.webp
-    ./img/3.webp
-    ./img/4.webp
-    ./img/5.webp
-    ./img/6.webp
-    ./img/7.webp
-    ./img/8.webp
-    ./img/9.webp
-    ./img/10.webp
-    ./img/11.webp
-    ./img/12.webp
-    ./img/13.webp
-    ./img/14.webp
-    ./img/15.webp
-    ./img/16.webp
-    ./img/17.webp
-    ./img/18.webp
-    ./img/19.webp
-    ./img/20.webp
-    ./img/21.webp
-    ./img/22.webp
-    ./img/23.webp
-    ./img/24.webp
-    ./img/25.webp
-    ./img/26.webp
-    ./img/27.webp
-    ./img/28.webp
-    ./img/29.webp
-    ./img/30.webp
-    ./img/31.webp
-    ./img/32.webp
-    ./img/33.webp
-    ./img/34.webp
-    ./img/35.webp
-    ./img/36.webp
-    ./img/37.webp
-    ./img/38.webp
-    ./img/39.webp
-    ./img/40.webp
-    ./img/41.webp
-    ./img/42.webp
-    ./img/43.webp
-    ./img/44.webp
-    ./img/45.webp
-    ./img/46.webp
-    ./img/47.webp
-    ./img/48.webp
-    ./img/49.webp
-    ./img/50.webp
-    ./img/51.webp
-    ./img/52.webp
-    ./img/53.webp
-    ./img/54.webp
-    ./img/55.webp
-    ./img/56.webp
-    ./img/57.webp
-    ./img/58.webp
-    ./img/59.webp
-    ./img/60.webp
-    ./img/61.webp
-    ./img/62.webp
-    ./img/63.webp
-    ./img/64.webp
-    ./img/65.webp
-    ./img/66.webp
-    ./img/67.webp
-    ./img/68.webp
-    ./img/69.webp
-    ./img/70.webp
-    ./img/71.webp
-    ./img/72.webp
-    ./img/73.webp
-    ./img/74.webp
-    ./img/75.webp
-    ./img/76.webp
-    ./img/77.webp
-    ./img/78.webp
-    ./img/79.webp
-    ./img/80.webp
-    ./img/81.webp
-    ./img/82.webp
-    ./img/83.webp
-    ./img/84.webp
-    ./img/85.webp
-    ./img/86.webp
-    ./img/87.webp
-    ./img/88.webp
-    ./img/89.webp
-    ./img/90.webp
-    ./img/91.webp
-    ./img/92.webp
-    ./img/93.webp
-    ./img/94.webp
-    ./img/95.webp
-    ./img/96.webp
-    ./img/97.webp
-    ./img/98.webp
-    ./img/99.webp
-    ./img/100.webp
-    ./img/101.webp
-    ./img/102.webp
-    ./img/103.webp
-    ./img/104.webp
-    ./img/105.webp
-    ./img/106.webp
-    ./img/107.webp
-    ./img/108.webp
-    ./img/109.webp
-    ./img/110.webp
-    ./img/111.webp
-    ./img/112.webp
-    ./img/113.webp
-    ./img/114.webp
-    ./img/115.webp
-    ./img/116.webp
-    ./img/117.webp
-    ./img/118.webp
-    ./img/119.webp
-    ./img/120.webp
-    ./img/121.webp
-    ./img/122.webp
-    ./img/123.webp
-    ./img/124.webp
-    ./img/125.webp
-    ./img/126.webp
-    ./img/127.webp
-    ./img/128.webp
-    ./img/129.webp
-    ./img/130.webp
-    ./img/131.webp
-    ./img/132.webp
-    ./img/133.webp
-    ./img/134.webp
+    ./IMG_P7/1.webp
+    ./IMG_P7/2.webp
+    ./IMG_P7/3.webp
+    ./IMG_P7/4.webp
+    ./IMG_P7/5.webp
+    ./IMG_P7/6.webp
+    ./IMG_P7/7.webp
+    ./IMG_P7/8.webp
+    ./IMG_P7/9.webp
+    ./IMG_P7/10.webp
+    ./IMG_P7/11.webp
+    ./IMG_P7/12.webp
+    ./IMG_P7/13.webp
+    ./IMG_P7/14.webp
+    ./IMG_P7/15.webp
+    ./IMG_P7/16.webp
+    ./IMG_P7/17.webp
+    ./IMG_P7/18.webp
+    ./IMG_P7/19.webp
+    ./IMG_P7/20.webp
+    ./IMG_P7/21.webp
+    ./IMG_P7/22.webp
+    ./IMG_P7/23.webp
+    ./IMG_P7/24.webp
+    ./IMG_P7/25.webp
+    ./IMG_P7/26.webp
+    ./IMG_P7/27.webp
+    ./IMG_P7/28.webp
+    ./IMG_P7/29.webp
+    ./IMG_P7/30.webp
+    ./IMG_P7/31.webp
+    ./IMG_P7/32.webp
+    ./IMG_P7/33.webp
+    ./IMG_P7/34.webp
+    ./IMG_P7/35.webp
+    ./IMG_P7/36.webp
+    ./IMG_P7/37.webp
+    ./IMG_P7/38.webp
+    ./IMG_P7/39.webp
+    ./IMG_P7/40.webp
+    ./IMG_P7/41.webp
+    ./IMG_P7/42.webp
+    ./IMG_P7/43.webp
+    ./IMG_P7/44.webp
+    ./IMG_P7/45.webp
+    ./IMG_P7/46.webp
+    ./IMG_P7/47.webp
+    ./IMG_P7/48.webp
+    ./IMG_P7/49.webp
+    ./IMG_P7/50.webp
+    ./IMG_P7/51.webp
+    ./IMG_P7/52.webp
+    ./IMG_P7/53.webp
+    ./IMG_P7/54.webp
+    ./IMG_P7/55.webp
+    ./IMG_P7/56.webp
+    ./IMG_P7/57.webp
+    ./IMG_P7/58.webp
+    ./IMG_P7/59.webp
+    ./IMG_P7/60.webp
+    ./IMG_P7/61.webp
+    ./IMG_P7/62.webp
+    ./IMG_P7/63.webp
+    ./IMG_P7/64.webp
+    ./IMG_P7/65.webp
+    ./IMG_P7/66.webp
+    ./IMG_P7/67.webp
+    ./IMG_P7/68.webp
+    ./IMG_P7/69.webp
+    ./IMG_P7/70.webp
+    ./IMG_P7/71.webp
+    ./IMG_P7/72.webp
+    ./IMG_P7/73.webp
+    ./IMG_P7/74.webp
+    ./IMG_P7/75.webp
+    ./IMG_P7/76.webp
+    ./IMG_P7/77.webp
+    ./IMG_P7/78.webp
+    ./IMG_P7/79.webp
+    ./IMG_P7/80.webp
+    ./IMG_P7/81.webp
+    ./IMG_P7/82.webp
+    ./IMG_P7/83.webp
+    ./IMG_P7/84.webp
+    ./IMG_P7/85.webp
+    ./IMG_P7/86.webp
+    ./IMG_P7/87.webp
+    ./IMG_P7/88.webp
+    ./IMG_P7/89.webp
+    ./IMG_P7/90.webp
+    ./IMG_P7/91.webp
+    ./IMG_P7/92.webp
+    ./IMG_P7/93.webp
+    ./IMG_P7/94.webp
+    ./IMG_P7/95.webp
+    ./IMG_P7/96.webp
+    ./IMG_P7/97.webp
+    ./IMG_P7/98.webp
+    ./IMG_P7/99.webp
+    ./IMG_P7/100.webp
+    ./IMG_P7.1/101.webp
+    ./IMG_P7.1/102.webp
+    ./IMG_P7.1/103.webp
+    ./IMG_P7.1/104.webp
+    ./IMG_P7.1/105.webp
+    ./IMG_P7.1/106.webp
+    ./IMG_P7.1/107.webp
+    ./IMG_P7.1/108.webp
+    ./IMG_P7.1/109.webp
+    ./IMG_P7.1/110.webp
+    ./IMG_P7.1/111.webp
+    ./IMG_P7.1/112.webp
+    ./IMG_P7.1/113.webp
+    ./IMG_P7.1/114.webp
+    ./IMG_P7.1/115.webp
+    ./IMG_P7.1/116.webp
+    ./IMG_P7.1/117.webp
+    ./IMG_P7.1/118.webp
+    ./IMG_P7.1/119.webp
+    ./IMG_P7.1/120.webp
+    ./IMG_P7.1/121.webp
+    ./IMG_P7.1/122.webp
+    ./IMG_P7.1/123.webp
+    ./IMG_P7.1/124.webp
+    ./IMG_P7.1/125.webp
+    ./IMG_P7.1/126.webp
+    ./IMG_P7.1/127.webp
+    ./IMG_P7.1/128.webp
+    ./IMG_P7.1/129.webp
+    ./IMG_P7.1/130.webp
+    ./IMG_P7.1/131.webp
+    ./IMG_P7.1/132.webp
+    ./IMG_P7.1/133.webp
+    ./IMG_P7.1/134.webp
 
 `;
     return data.split("\n")[index];
